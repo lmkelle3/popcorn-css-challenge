@@ -58,7 +58,7 @@ Main background - #D4A76A */
     display: flex;
     justify-content: space-evenly;
     height: 150px;
-    padding: 15px;
+    padding: 30px;
 }
 
 .buttonish2 {
@@ -66,10 +66,11 @@ Main background - #D4A76A */
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     font-size: 15pt;
-    width: 200px;
+    width: 100%;
     height: 50px;
     border-color: black;
     margin-top: 30px;
+    display: block;
  }
 
 .box1 {
@@ -80,6 +81,7 @@ Main background - #D4A76A */
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15pt;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.6), 0 6px 20px 0 rgba(0,0,0,0.6);
+    padding: 17px;
 }
 
 .box2 {
@@ -90,6 +92,7 @@ Main background - #D4A76A */
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15pt;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.6), 0 6px 20px 0 rgba(0,0,0,0.6);
+    padding: 17px;
 }
 
 .box3 {
@@ -100,6 +103,7 @@ Main background - #D4A76A */
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15pt;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.6), 0 6px 20px 0 rgba(0,0,0,0.6);
+    padding: 17px;
 }
 
     /* Section 2 */
@@ -109,7 +113,7 @@ Main background - #D4A76A */
     display: flex;
     justify-content: space-evenly;
     height: 200px;
-    padding: 50px;
+    padding: 70px;
 }
 
 .box4 {
@@ -121,6 +125,7 @@ Main background - #D4A76A */
     font-size: 15pt;
     margin-top: 20px;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.6), 0 6px 20px 0 rgba(0,0,0,0.6);
+    padding: 17px;
 }
 
 .buttonish3 {
@@ -128,8 +133,9 @@ Main background - #D4A76A */
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     font-size: 15pt;
-    width: 1200px;
     height: 50px;
     border-color: black;
     margin-top: 10px;
+    display: block;
+    width: 100%;
 }
